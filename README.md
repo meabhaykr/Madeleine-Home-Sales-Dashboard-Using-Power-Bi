@@ -70,6 +70,3 @@ Thank you for checking out the Sales Dashboard 2023 project! Your feedback and c
 ### Connect with Me
 
 [LinkedIn](https://www.linkedin.com/in/meabhaykr) | [GitHub](https://github.com/meabhaykr) | [Portfolio](https://meabhaykr.github.io)
-
-##### Portfolio
-(https://meabhaykr.github.io)
