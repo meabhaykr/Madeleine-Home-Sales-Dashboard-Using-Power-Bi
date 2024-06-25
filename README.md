@@ -1,4 +1,14 @@
-# Madeleine Home Sales Dashboard 2023
+<h1 align="center">Madeleine Home Sales Dashboard</h1>
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Features](#features)
+- [Additional Insights](#additional-insights)
+- [Technical Details](#technical-details)
+- [Files Included](#files-included)
+- [How to Use the Dashboard(#how-to-use-the-dashboard)]
+
 
 ## Overview
 
@@ -27,15 +37,22 @@ This repository contains a comprehensive sales dashboard for the year 2023, deve
 - **Power BI Dashboard File:** `Sales_Dashboard_2023.pbix`
 - **Data Files:** All relevant data files used for analysis.
 
+## Schema
+<p align="center">
+    <img src="https://github.com/meabhaykr/Madeleine-Home-Sales-Dashboard-Using-Power-Bi/blob/main/Schema.png" alt="Schema.png">
+</p>
+
 ## How to Use the Dashboard
 
 - **Monthly Sales View:** Navigate to the Monthly Sales tab to see a breakdown of sales performance by category, channel, warehouse, and state.
 - **Weekday vs. Weekend Sales:** Explore the patterns in sales based on weekdays and weekends in the corresponding tab.
 - **Event Impact:** Analyze the impact of special events on sales in the Events tab.
 
-## Contribution
+## Power BI Dashboard
 
-Feel free to fork this repository and contribute by submitting pull requests. For major changes, please open an issue first to discuss what you would like to change.
+<p align="center">
+    <img src="https://github.com/meabhaykr/Madeleine-Home-Sales-Dashboard-Using-Power-Bi/blob/main/Madeleine Home Sales Dashboard.png" alt="Madeleine Home Sales Dashboard">
+</p>
 
 ## Contact
 
@@ -45,17 +62,9 @@ For any questions or feedback, please contact me at [your.meabhaykr@gmail.com](m
 
 Thank you for checking out the Sales Dashboard 2023 project! Your feedback and contributions are highly appreciated.
 
----
-
-### Screenshots
-
 
 ---
 
 ### Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername) | [Twitter](https://twitter.com/yourusername)
-
----
-
-#SalesDashboard #PowerBI #DataAnalytics #BusinessIntelligence #DAX #PowerQuery #SalesAnalysis
+[LinkedIn](https://www.linkedin.com/in/meabhaykr) | [GitHub](https://github.com/meabhaykr) | [Portfolio]https://meabhaykr.github.io//)
