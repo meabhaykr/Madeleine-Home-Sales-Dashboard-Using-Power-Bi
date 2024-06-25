@@ -58,7 +58,7 @@ This repository contains a comprehensive sales dashboard for the year 2023, deve
 
 ## Contact
 
-For any questions or feedback, please contact me at [your.meabhaykr@gmail.com](mailto:meabhaykr@gmail.com).
+For any questions or feedback, please contact me at [meabhaykr@gmail.com](mailto:meabhaykr@gmail.com).
 
 ---
 
