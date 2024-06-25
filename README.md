@@ -36,7 +36,7 @@ This repository contains a comprehensive sales dashboard for the year 2023, deve
 
 ## Files Included
 
-- **Power BI Dashboard File:** `Sales_Dashboard_2023.pbix`
+- **Power BI Dashboard File:** `Madeleine Home Sales.pbix`
 - **Data Files:** All relevant data files used for analysis.
 
 ## Schema
