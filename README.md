@@ -1,4 +1,8 @@
 <h1 align="center">Madeleine Home Sales Dashboard</h1>
+  
+## Overview
+
+This repository contains a comprehensive sales dashboard for the year 2023, developed to provide actionable insights for improving sales performance. The dashboard focuses on monthly sales analysis, patterns in weekday and weekend sales, and the impact of events on sales. The project is built using Power BI with Power Query and DAX for data manipulation and analysis.
 
 ## Table of Contents
 
@@ -9,12 +13,8 @@
 - [Files Included](#files-included)
 - [Schema](#schema)
 - [How to Use the Dashboard](#how-to-use-the-dashboard)
-- [Power BI Dashboard][#power-bi-dashboard]
+- [Power BI Dashboard](#power-bi-dashboard)
 - [Contact](#contact)
-  
-## Overview
-
-This repository contains a comprehensive sales dashboard for the year 2023, developed to provide actionable insights for improving sales performance. The dashboard focuses on monthly sales analysis, patterns in weekday and weekend sales, and the impact of events on sales. The project is built using Power BI with Power Query and DAX for data manipulation and analysis.
 
 ## Features
 
